@@ -6,6 +6,7 @@ Control R2D2 with Sony DualShock Controller and Python (https://youtu.be/eeHtZrP
 How to use:
 - Connect DualShock joystick, use default calibration
 - Start VRED, open DualShock demo file
-- Open Variant Sets, double click joystick Activation VSet.
+- Click Touch Sensor assigned to top Blue ring of R2D2 to toggle joystick activation.
+- See Variant Sets Script tabs for Python configurations.
 
 ![DS_Controller_MappingsNew](https://user-images.githubusercontent.com/39199224/103419123-af4d7f00-4b5f-11eb-9c1b-ccd64c92c05c.png)
