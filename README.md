@@ -7,4 +7,5 @@ How to use:
 - Connect DualShock joystick, use default calibration
 - Start VRED, open DualShock demo file
 - Open Variant Sets, double click joystick Activation VSet.
+
 ![DS_Controller_MappingsNew](https://user-images.githubusercontent.com/39199224/103419123-af4d7f00-4b5f-11eb-9c1b-ccd64c92c05c.png)
